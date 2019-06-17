@@ -1,0 +1,13 @@
+/build/
+/config/
+/dist/
+/*.js
+
+kjfFunction.js
+fastclick.js
+
+kjf_ajax.js
+kjf_index.js
+kjf_test.js
+kjf_actions.js
+kjf_mutations.js

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/教程/Webpack快速入门教程.md" line="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0ebe5ce-3d2b-48b7-80e8-b65a02895289" name="Default" comment="" />
+    <ignored path="ProjectBuild.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProjectBuild" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/less/test3.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test3.less" />
+        <option value="$PROJECT_DIR$/test/test1.js" />
+        <option value="$PROJECT_DIR$/test/test2.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/index.css" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/index.html" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/test1.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/js/bundle.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/js/content.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/index2.html" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test3.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/dist/index.html" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/build/js/build.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/js/test2.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/package.json" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/.jshintrc" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/js/test1.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/index.html" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/css/test2.css" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/work/01_GruntTest/src/css/test1.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/js/test2.js" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/js/test1.js" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/less/test3.less" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/index.html" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test1.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/src/css/test2.css" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/package.json" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/js/build.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/dist/index.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/dist/index1.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/test.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/test.js" />
+        <option value="$PROJECT_DIR$/work/02_GulpTest/gulpfile.js" />
+        <option value="$PROJECT_DIR$/教程/Webpack快速入门教程.md" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/src/js/content.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/src/js/entry.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/src/css/test.css" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/index.html" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/package.json" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/webpack.config.js" />
+        <option value="$PROJECT_DIR$/work/03_WebpackTest/build/index.html" />
+        <option value="$PROJECT_DIR$/test/src/test1.js" />
+        <option value="$PROJECT_DIR$/test/src/test2.js" />
+        <option value="$PROJECT_DIR$/test/src/main.js" />
+        <option value="$PROJECT_DIR$/test/index.html" />
+        <option value="$PROJECT_DIR$/test/.babelrc" />
+        <option value="$PROJECT_DIR$/test/package.json" />
+        <option value="$PROJECT_DIR$/教程/Grunt快速入门教程.md" />
+        <option value="$PROJECT_DIR$/教程/Gulp快速入门教程.md" />
+        <option value="$PROJECT_DIR$/教程/webpack3快速入门教程.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="715" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectBuild" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBuild" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectBuild" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectBuild" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\test\src" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\src\image" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\02_GulpTest\src\js" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\01_GruntTest\src\css" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\01_GruntTest\src\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\build" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\src\js" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\build\js" />
+      <recent name="E:\school\js high grade\project build\project build\project build\code\ProjectBuild\work\03_WebpackTest\dist" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0ebe5ce-3d2b-48b7-80e8-b65a02895289" name="Default" comment="" />
+      <created>1492077582280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492077582280</updated>
+      <workItem from="1492077583424" duration="9722000" />
+      <workItem from="1492127739050" duration="36512000" />
+      <workItem from="1492173677815" duration="2019000" />
+      <workItem from="1492215563472" duration="1100000" />
+      <workItem from="1492695461020" duration="4719000" />
+      <workItem from="1492731635183" duration="491000" />
+      <workItem from="1492745904566" duration="2327000" />
+      <workItem from="1492770724467" duration="4738000" />
+      <workItem from="1492950859287" duration="10632000" />
+      <workItem from="1492991652049" duration="1673000" />
+      <workItem from="1492997409832" duration="17426000" />
+      <workItem from="1493037323497" duration="406000" />
+      <workItem from="1493078343285" duration="20341000" />
+      <workItem from="1494917749175" duration="8272000" />
+      <workItem from="1494981801691" duration="8981000" />
+      <workItem from="1495003272453" duration="5257000" />
+      <workItem from="1495152897824" duration="17124000" />
+      <workItem from="1495414463209" duration="15380000" />
+      <workItem from="1496678859343" duration="121000" />
+      <workItem from="1499080672158" duration="9660000" />
+      <workItem from="1499127081092" duration="29446000" />
+      <workItem from="1499180859222" duration="2000" />
+      <workItem from="1499180909659" duration="92000" />
+      <workItem from="1499181047414" duration="61000" />
+      <workItem from="1499181176422" duration="144000" />
+      <workItem from="1499181349783" duration="306000" />
+      <workItem from="1499213766465" duration="17504000" />
+      <workItem from="1510225452805" duration="1366000" />
+      <workItem from="1560332822233" duration="1080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="226902000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="715" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875298" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3936877" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50298506" side_tool="true" weight="0.30730897" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49701494" weight="0.30605564" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20298508" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3936877" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50298506" side_tool="true" weight="0.30730897" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49701494" weight="0.30730897" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/build/js/build.min.js" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/build/css/build.min.css" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/src/css/test1.css" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/src/css/test2.css" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/js/build.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/js/build.min.js" />
+    <entry file="file://$PROJECT_DIR$/prepare/02_GulpTest/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/js/test1.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/js/test2.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/less/test3.less" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/css/test3.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/css/build.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/css/build.min.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/css/test1.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/src/css/test2.css" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/package.json" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/dist/js/build.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/dist/build.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/build.js/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/test.html" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/test.js" />
+    <entry file="file://$PROJECT_DIR$/work/01_GruntTest/Gruntfile.js" />
+    <entry file="file://$PROJECT_DIR$/work/02_GulpTest/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/js/content.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/js/entry.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/image/logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/image/big.jpg" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/build/js/ad3bbb39831c85a1736ea55a222f7fd1.jpg" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/build/js/build.js" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/src/css/test.css" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/package.json" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/build/index.html" />
+    <entry file="file://$PROJECT_DIR$/work/03_WebpackTest/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/教程/Webpack快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="157" column="16" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/test1.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/test2.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/test/dist/main.js" />
+    <entry file="file://$PROJECT_DIR$/test/build/build.js" />
+    <entry file="file://$PROJECT_DIR$/test/.babelrc" />
+    <entry file="file://$PROJECT_DIR$/test/index.html" />
+    <entry file="file://$PROJECT_DIR$/test/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/test/package.json" />
+    <entry file="file://$PROJECT_DIR$/教程/Grunt快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-511">
+            <caret line="270" column="16" selection-start-line="270" selection-start-column="16" selection-end-line="270" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/Gulp快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-376">
+            <caret line="223" column="43" selection-start-line="223" selection-start-column="43" selection-end-line="223" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/教程/webpack3快速入门教程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="297">
+            <caret line="206" column="12" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
